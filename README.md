@@ -1,22 +1,26 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=I'm+Prince+Tan!+👋;" />
 </h1>
+<p> 
+<h2>💡About Me</h2>
+I’m an aspiring Web Developer passionate about building clean and functional applications. I’m consistent in making projects to improve my skills, and my goal is to become a Software Engineer who creates useful and impactful solutions.
+</p>
+<br>
 <h2>📫Connect with Me</h2>
-
 <p align="center">
-  <a href="mailto:your.email@gmail.com">
+  <a href="mailto:pwtan02@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin-username/">
+  <a href="https://www.linkedin.com/in/pwtandev/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://instagram.com/yourusername">
+  <a href="https://www.instagram.com/lowishxx/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
 
 <hr>
-<h2>⚒️ Languages - Frameworks - Tools ⚒</h2>
+<h2>⚒️ Languages - Frameworks - Tools</h2>
 </br>
 <p align="center">
   <!-- Languages -->
@@ -26,13 +30,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="50" height="50"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" alt="PHP" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sourcetree/sourcetree-original.svg" title="Sourcetree" alt="Sourcetree" width="50" height="50"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="50" height="50"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="50" height="50"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="50" height="50"/>&nbsp;
-  <img src="https://img.icons8.com/color/512/canva.png" title="Canva" alt="Canva" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/512/canva.png" title="Canva" alt="Canva" width="50" height="50"/>&nbsp;
 </p>
+
 </br>
 <hr/>
 
