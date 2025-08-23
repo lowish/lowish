@@ -1,11 +1,11 @@
 
 <!-- Visitor Badge -->
 <p align="center">
-    <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=lowish.lowish" />
+    <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=lowish.lowish"/>
 </p>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=I'm+Prince+Tan!+👋;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=black&lines=I'm+Prince+Tan!+👨‍💻;"/>
 </h1>
 <p> 
 <h2>💡About Me</h2>
@@ -26,7 +26,7 @@ I’m an aspiring Web Developer passionate about building clean and functional a
 </p>
 
 <hr>
-<h2>⚒️ Languages - Frameworks - Tools</h2>
+<h2>🖥️Tech Stack</h2>
 </br>
 <p align="center">
   <!-- Languages -->
@@ -37,12 +37,13 @@ I’m an aspiring Web Developer passionate about building clean and functional a
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="50" height="50"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" alt="PHP" width="50" height="50"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="50" height="50"/>
+  <img src="https://cdn.simpleicons.org/tailwindcss/38BDF8" title="Tailwind CSS" alt="Tailwind CSS" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sourcetree/sourcetree-original.svg" title="Sourcetree" alt="Sourcetree" width="50" height="50"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="50" height="50"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="50" height="50"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="50" height="50"/>&nbsp;
   <img src="https://img.icons8.com/color/512/canva.png" title="Canva" alt="Canva" width="50" height="50"/>&nbsp;
+
 </p>
 
 </br>
