@@ -26,25 +26,24 @@ I’m an aspiring Web Developer passionate about building clean and functional a
 </p>
 
 <hr>
-<h2>🖥️Tech Stack</h2>
+<h2>🧰Tech Stack</h2>
 </br>
-<p align="center">
+<div align="center">
   <!-- Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50" height="50"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="50" height="50"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" alt="PHP" width="50" height="50"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="50" height="50"/>
-  <img src="https://cdn.simpleicons.org/tailwindcss/38BDF8" title="Tailwind CSS" alt="Tailwind CSS" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="50" height="50"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="50" height="50"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="50" height="50"/>&nbsp;
-  <img src="https://img.icons8.com/color/512/canva.png" title="Canva" alt="Canva" width="50" height="50"/>&nbsp;
 
-</p>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+
+</div>
 
 </br>
 <hr/>
@@ -53,13 +52,25 @@ I’m an aspiring Web Developer passionate about building clean and functional a
 
 
 <div align="center">
-  <img width="345" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lowish&layout=compact&theme=tokyonight" alt="Top Languages" />
+    
+<div align="center">
+
+<!-- T Logo -->
+<img src="https://raw.githubusercontent.com/lowish/lowish/main/assets/t-logo.png" width="100" alt="T Logo" />
+
+<!-- GitHub Stats -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lowish&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true&count_private=true)
+
+</div>
+
+  <div align="center">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lowish&layout=compact&theme=tokyonight&hide)
+
+</div>
+
   &nbsp;&nbsp;&nbsp; <!-- 5 spaces -->
-  <img 
-    width="390" 
-    src="https://github-readme-stats-salesp07.vercel.app/api?username=lowish&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" 
-    alt="GitHub Stats" 
-  />
+
 </div>
 
 
