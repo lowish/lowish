@@ -1,16 +1,15 @@
-
 <!-- Visitor Badge -->
 <p align="center">
     <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=lowish.lowish"/>
 </p>
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=FFFFFF&lines=I'm+Prince+Tan!+👨‍💻;Web+Developer;"/>
 </h1>
 
-<h2>📫Connect with Me</h2>
-  <!-- DevProfiles -->
+<h2> Connect with Me</h2>
 <p align="center">
-    </br>
+  </br>
   <a href="mailto:pwtan02@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
@@ -23,11 +22,11 @@
 </p>
 
 <hr>
-<h2>🧰Tech Stack</h2>
+
+<h2> Tech Stack</h2>
 </br>
 <div align="center">
-  <!-- Languages -->
-    
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -41,14 +40,12 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 </div>
+
 <hr/>
 
-<h2>📊 GitHub Stats</h2>
-
+<h2> GitHub Stats</h2>
 <div align="center">
 
-
-<!-- GitHub Stats -->
 <a href="https://github.com/lowish">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lowish&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true&count_private=true" style="margin-right: 25px;"/>
 </a>
@@ -57,8 +54,25 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lowish&layout=compact&langs_count=8&theme=tokyonight" style="margin-left: 25px;"/>
 </a>
 
-  &nbsp;&nbsp;&nbsp; <!-- 5 spaces -->
-
 </div>
 
+<hr/>
+
+<!-- About me -->
+<h2 align="left">About me</h2>
+
+<div align="left">
+
+```js
+const prince_tan = {
+  bio: "Hey there! Prince here 👋, a self-taught web developer passionate about fullstack dev.",
+  techStack: {
+    frontend: ["Javascript", "Nextjs", "React", "TypeScript", "TailwindCSS"]
+    backend:    ["PHP", "MySQL"],
+    libraries:  ["React", "Shadcn/UI", "FramerMotion"],
+    frameworks: ["Next.js", "Vite"],
+    deployment: ["GitHub Pages", "Vercel"],
+  },
+  motto: "Consistentency beats talent...",
+};
 
