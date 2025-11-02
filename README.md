@@ -65,7 +65,7 @@
 
 ```js
 const prince_tan = {
-  bio: "Hey there! Prince here 👋, a self-taught web developer passionate about fullstack dev.",
+  bio: "Hey there! Prince here 👋, A self-taught web developer focused on mastering full-stack development and bringing ideas to life through code.",
   techStack: {
     frontend: ["Javascript", "Nextjs", "React", "TypeScript", "TailwindCSS"]
     backend:    ["PHP", "MySQL"],
@@ -73,6 +73,7 @@ const prince_tan = {
     frameworks: ["Next.js", "Vite"],
     deployment: ["GitHub Pages", "Vercel"],
   },
-  motto: "Consistentency beats talent...",
+  motto: "Consistency beats talent...",
+  status: undefined
 };
 
