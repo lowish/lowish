@@ -75,5 +75,7 @@ const prince_tan = {
   },
   motto: "Consistency beats talent...",
   status: undefined
+  interested in: Software Engineering (Crafting scalable software systems)
+  
 };
 
