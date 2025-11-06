@@ -74,8 +74,8 @@ const prince_tan = {
     deployment: ["GitHub Pages", "Vercel"],
   },
   motto: "Consistency beats talent...",
-  status: undefined
-  interested in: Software Engineering (Crafting scalable software systems)
+  status: undefined,
+  interested in: Software Development (Crafting scalable software systems)
   
 };
 
