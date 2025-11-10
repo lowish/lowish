@@ -70,7 +70,7 @@
 const prince_tan = {
   bio: "Hey there! Prince here 👋, A self-taught web developer focused on mastering full-stack development and bringing ideas to life through code.",
   techStack: {
-    frontend: ["Javascript", "Nextjs", "React", "TypeScript", "TailwindCSS"]
+    frontend: ["Javascript", "Nextjs", "React", "TypeScript", "TailwindCSS"],
     backend:    ["PHP", "MySQL"],
     libraries:  ["React", "Shadcn/UI", "FramerMotion"],
     frameworks: ["Next.js", "Vite"],
@@ -78,7 +78,7 @@ const prince_tan = {
   },
   motto: "Consistency beats talent...",
   status: undefined,
-  interested in: Software Development (Crafting scalable software systems),
+  interested in: "Software Development, Crafting scalable software systems",
   
 };
 
