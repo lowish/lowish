@@ -53,7 +53,7 @@
 <div align="center">
 
 <a href="https://github.com/lowish">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lowish&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true&count_private=true" style="margin-right: 25px;"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lowish&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true" style="margin-right: 25px;"/>
 </a>
 
 <a href="https://github.com/lowish">
