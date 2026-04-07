@@ -34,6 +34,8 @@
 ![Node.js](https://img.shields.io/badge/Node.js-111?style=for-the-badge&logo=node.js)
 ![Express.js](https://img.shields.io/badge/Express.js-111?style=for-the-badge&logo=express)
 ![Next.js](https://img.shields.io/badge/Next.js-111?style=for-the-badge&logo=nextdotjs)
+![TypeScript](https://img.shields.io/badge/TypeScript-111?style=for-the-badge&logo=typescript)
+![Shadcn/ui](https://img.shields.io/badge/shadcn/ui-111?style=for-the-badge&logo=shadcnui&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-111?style=for-the-badge&logo=tailwindcss)
 ![Firebase](https://img.shields.io/badge/Firebase-111?style=for-the-badge&logo=firebase)
 ![MongoDB](https://img.shields.io/badge/MongoDB-111?style=for-the-badge&logo=mongodb)
