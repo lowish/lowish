@@ -3,10 +3,6 @@
     <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=lowish.lowish"/>
 </p>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=FFFFFF&lines=I'm+Prince+Tan!+👨‍💻;Web+Developer;"/>
-</h1>
-
 <h2> Connect with Me</h2>
 <p align="center">
   </br>
