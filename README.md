@@ -73,6 +73,7 @@ const prince_tan = {
     libraries:  ["React", "Shadcn/UI", "FramerMotion"],
     frameworks: ["Next.js", "Vite"],
     deployment: ["GitHub Pages", "Vercel"],
+    ai: ["Claude Code, Co Pilot, Codex"]
   },
   motto: "Consistency beats talent...",
   status: undefined,
