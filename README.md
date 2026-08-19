@@ -1,83 +1,66 @@
-<!-- Visitor Badge -->
 <p align="center">
-    <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=lowish.lowish"/>
-</p>
-
-<h2> Connect with Me</h2>
-<p align="center">
-  </br>
-  <a href="mailto:pwtan02@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  <a href="https://github.com/lowish">
+    <img src="https://img.shields.io/badge/LOWISH-555555?style=for-the-badge" alt="GitHub"/>
+  </a>
+    <a href="mailto:lowishxx@gmail.com">
+    <img src="https://img.shields.io/badge/LOWISHXX%40GMAIL.COM-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://www.linkedin.com/in/pwtandev/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+      <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.instagram.com/lowishxx/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  <a href="https://t.me/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
 </p>
 
-<hr>
 
-<h2> Tech Stack</h2>
-</br>
+<h2>Tech Stack</h2>
+<br>
+
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-111?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-111?style=for-the-badge&logo=css&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-111?style=for-the-badge&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-111?style=for-the-badge&logo=node.js)
-![Express.js](https://img.shields.io/badge/Express.js-111?style=for-the-badge&logo=express)
-![Next.js](https://img.shields.io/badge/Next.js-111?style=for-the-badge&logo=nextdotjs)
-![TypeScript](https://img.shields.io/badge/TypeScript-111?style=for-the-badge&logo=typescript)
-![Shadcn/ui](https://img.shields.io/badge/shadcn/ui-111?style=for-the-badge&logo=shadcnui&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-111?style=for-the-badge&logo=tailwindcss)
-![Firebase](https://img.shields.io/badge/Firebase-111?style=for-the-badge&logo=firebase)
-![MongoDB](https://img.shields.io/badge/MongoDB-111?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-111?style=for-the-badge&logo=mysql)
-![Python](https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python)
-![PHP](https://img.shields.io/badge/PHP-111?style=for-the-badge&logo=php)
-![Git](https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="45" title="Next.js"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="45" title="React"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="45" title="Tailwind CSS"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="45" title="HTML5"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="45" title="CSS3"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45" title="JavaScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="45" title="TypeScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="45" title="Docker" alt="Docker"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="45" title="Node.js"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain-wordmark.svg" width="45" title="Firebase"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="45" title="Express.js"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" width="45" title="MongoDB"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="45" title="MySQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width="45" title="Git"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" title="Python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" width="45" title="Supabase"/>
+<img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/vercel/default.svg" width="45" title="Vercel" alt="Vercel"/>
+
 
 </div>
 
-<hr/>
+<h2> AI Tools</h2>
+<br>
 
-<h2> GitHub Stats</h2>
 <div align="center">
 
-<a href="https://github.com/lowish">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lowish&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true" style="margin-right: 25px;"/>
-</a>
+<img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/claude/default.svg" width="45" title="Claude" alt="Claude" style="margin: 0 10px;"/>
 
-<a href="https://github.com/lowish">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lowish&layout=compact&langs_count=8&theme=tokyonight" style="margin-left: 25px;"/>
-</a>
+<img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/openai/default.svg" width="45" title="OpenAI" alt="OpenAI" style="margin: 0 10px;"/>
+
+<img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/gemini/default.svg" width="45" title="Gemini" alt="Gemini" style="margin: 0 10px;"/>
+
+<img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/claude-code/default.svg" width="45" title="Claude Code" alt="Claude Code" style="margin: 0 10px;"/>
+
+<img src="https://ai.sitebard.com/icons/svg/codex-color.svg" width="45" title="Codex" alt="Codex" style="margin: 0 10px;"/>
+
+<img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/github-copilot/default.svg" width="45" title="GitHub Copilot" alt="GitHub Copilot" style="margin: 0 10px;"/>
+
+<img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/google-antigravity/default.svg" width="45" title="Google Antigravity" alt="Google Antigravity" style="margin: 0 10px;"/>
 
 </div>
 
-<hr/>
 
-<!-- About me -->
-<h2 align="left">About me</h2>
 
-<div align="left">
-
-```js
-const prince_tan = {
-  bio: "Hey there! Prince here 👋, A self-taught web developer focused on mastering full-stack development and bringing ideas to life through code.",
-  techStack: {
-    frontend: ["Javascript", "Nextjs", "React", "TypeScript", "TailwindCSS"],
-    backend:    ["PHP", "MySQL", "Firebase"],
-    libraries:  ["React", "Shadcn/UI", "FramerMotion"],
-    frameworks: ["Next.js", "Vite"],
-    deployment: ["GitHub Pages", "Vercel"],
-    ai: ["Claude Code, Co Pilot, Codex"]
-  },
-  motto: "Consistency beats talent...",
-  status: undefined,
-  interested: "Software Development, Crafting scalable software systems",
-  
-};
 
